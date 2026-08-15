@@ -45,16 +45,17 @@ Go to [full documentation](https://react-tailwindcss-datepicker.vercel.app/)
 
 ## ⚠️ Supported versions
 
-Only **react-tailwindcss-datepicker** versions greater than or equal to **1.7.4** receive bug fixes and new features. The table below lists compatibility with the different **react** versions:
+Only **react-tailwindcss-datepicker** versions greater than or equal to **1.7.4** receive bug fixes and new features. The table below lists compatibility with the different **react**, **node**, and **tailwind** versions:
 
-| Version                                                                    | React Version |
-|----------------------------------------------------------------------------|---------------|
-| [2.x](https://github.com/onesine/react-tailwindcss-datepicker/tree/v2.0.0) | 19.x          |
-| [1.x](https://github.com/onesine/react-tailwindcss-datepicker/tree/v1.7.3) | 17.x, 18.x    |
+| Version                                                                    | React Version | Node Version | Tailwind CSS Version |
+|----------------------------------------------------------------------------|---------------|--------------|----------------------|
+| 3.x                                                                        | 19.x          | 24.x         | 4.x                  |
+| [2.x](https://github.com/onesine/react-tailwindcss-datepicker/tree/v2.0.0) | 19.x          | 18.x - 22.x  | 3.x                  |
+| [1.x](https://github.com/onesine/react-tailwindcss-datepicker/tree/v1.7.3) | 17.x, 18.x    | 16.x - 20.x  | 3.x                  |
 
 ## Installation
 
-React Tailwindcss Datepicker uses Tailwind CSS 3 (with the
+React Tailwindcss Datepicker uses Tailwind CSS (with the
 [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) plugin) &
 [Dayjs](https://day.js.org/en/) under the hood to work.
 

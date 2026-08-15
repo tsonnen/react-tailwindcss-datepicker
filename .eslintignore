@@ -2,6 +2,8 @@
 dist/
 assets/
 styles/
+.next/
 
 # Files
 README.md
+next-env.d.ts
